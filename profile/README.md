@@ -29,7 +29,7 @@ Porfo's core strength lies in its integration of AI with blockchain technology, 
 For more detailed information, visit our [documentation](https://docs.porfo.app).
 
 ## 📝 Contributing
-We welcome contributions from the community. Please read our contributing guidelines before submitting your pull request.
+We welcome contributions from the community. Porfo is currently a private application but it is planned to be released publicly post its launch. Please connect with us on telegram, discord or drop us a mail if you want to be a part of the team or contribute to the development of the infrastructure.
 
 ## 📩 Contact
 For support or inquiries, please contact us at [support@porfo.app](mailto:support@porfo.app).
